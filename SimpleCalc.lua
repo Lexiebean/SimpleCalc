@@ -81,7 +81,7 @@ function SimpleCalc_ParseParameters(paramStr)
   end
 
   if (paramCount >= 3) then
-    SimpleCalc_Message(paramStr .. ' = ' .. number_format(math.floor(result)));
+    SimpleCalc_Message(paramStr .. ' = ' .. number_format(result));
   else
     SimpleCalc_Usage();
   end
