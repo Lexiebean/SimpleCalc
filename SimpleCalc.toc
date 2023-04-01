@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: SimpleCalc
+## Notes: A simple mathematical calculator. Type /calc for help!
+## Author: |cffbe5effLexie|r
+## Version: 1.0.0
+SimpleCalc.lua
+SimpleCalc.xml
